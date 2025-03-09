@@ -280,6 +280,8 @@ app.layout = dbc.Container(children=[
 
 #====================================== Calbacks ===========================================
 
+# Deverá no futuro ser segregado em um arquivo callback.py
+
 # ======== Callbacks ========== #
 # Graph 1 and 2
 @app.callback(
